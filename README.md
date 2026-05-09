@@ -66,7 +66,6 @@ If you use this work in your research, please cite:
 @article{pso_gp_activation,
   title={PSO-GP: An Evolutionary Optimization-based Activation Function Approximation for Hardware Efficient Neural Network},
   author={Gurve, Mahendra Kumar and Kumar, Gaurav and Kumar, Anuj and Ahlawat, Satyadev and Prasad, Yamuna},
-  journal={Computers \& Electrical Engineering},
   year={2026}
 }
 ```

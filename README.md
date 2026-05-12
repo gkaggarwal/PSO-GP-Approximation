@@ -21,9 +21,8 @@ PSO-GP is a hybrid evolutionary optimization framework for hardware-efficient ap
 
 ```text
 PSO-GP/
-├── datasets/
-├── pso/
-├── gp/
+├── Dataset/
+├── PSO-GP/
 ├── hardware/
 ├── results/
 ├── main.m

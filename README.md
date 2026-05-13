@@ -31,8 +31,8 @@ addpath('path/to/gpols_toolbox');
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/xxx/PSO-GP-Activation.git
-cd PSO-GP-Activation
+git clone https://github.com/gkaggarwal/PSO-GP-Approximation.git
+cd PSO-GP
 ```
 
 ### 2. Add GP-OLS Toolbox to MATLAB path
